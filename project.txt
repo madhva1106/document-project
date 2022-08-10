@@ -1,0 +1,13 @@
+ans 1.java script
+ans2. HTML
+ans3. it's like a contenor
+dived the page into section
+ans4.relative postion it is some where else
+absulut postion it is at the right postion
+ans5.for change the trasperansy of image
+ans6.jsx
+ans7.snack
+ans8.download expo go app then scan qr code and run the app
+ans9.to show the componets
+ans10.to show render
+ans11.button,view,touchebal opecity
